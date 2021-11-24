@@ -1,4 +1,4 @@
-## Recipes
+## **Recipes**
 
 This project consists of a landing page with links to three pages, each with a simple recipe. The objective of this project was to put into practice what had been learned about HTML until that lesson. The page does not have any styping. 
 The project is available at: https://githubblues.github.io/TOP_Recipes/.
